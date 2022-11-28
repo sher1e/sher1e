@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sher1e
 - 👀 I’m interested in cryptography
-- 🌱 I’m currently towards PhD degree at Fudan University
+- 🌱 I’m currently a PhD student at Fudan University
 - 💞️ I’m looking to collaborate on post-quantum cryptography and fully homomorphic encryption
 - 📫 You can reach me through [email](mailto:zksyshen@gmail.com)
 
